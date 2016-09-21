@@ -1,6 +1,6 @@
 ## Slide 1
 
-![](https://media0.giphy.com/media/rncdcDDHCQaWI/200w.gif)
+![Image Caption Here](https://media0.giphy.com/media/rncdcDDHCQaWI/200w.gif)
 
 * Bullet list
 * item 2
@@ -10,7 +10,9 @@ Make sure **all** (bold text surrounded by `** **`)
 
 *italics* (using one `* *` on either side of content)
 
-Note: 
+??? 
+
+These are the presenter notes.
 
 ---
 
